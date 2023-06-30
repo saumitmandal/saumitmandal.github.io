@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://www.facebook.com/photo/?fbid=10159114632122763&set=a.431102677762
+avatar: https://static-00.iconduck.com/assets.00/aws-icon-512x512-hniukvcn.png
 
 # boolean type, the global switch for TOC in posts.
 toc: false
